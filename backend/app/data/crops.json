@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Paddy",
+    "tamil_name": "நெல் (Paddy)",
+    "sowing_month": "July - October (Samba/Thaladi)",
+    "optimal_rainfall": 1200.0,
+    "rainfall_tolerance": 300.0,
+    "dry_spell_tolerance": 5,
+    "heavy_rain_tolerance": 90.0
+  },
+  {
+    "id": 2,
+    "name": "Millets (Ragi/Bajra)",
+    "tamil_name": "கேழ்வரகு / கம்பு (Millets)",
+    "sowing_month": "July - September",
+    "optimal_rainfall": 500.0,
+    "rainfall_tolerance": 200.0,
+    "dry_spell_tolerance": 14,
+    "heavy_rain_tolerance": 50.0
+  },
+  {
+    "id": 3,
+    "name": "Groundnut",
+    "tamil_name": "நிலக்கடலை (Groundnut)",
+    "sowing_month": "June - August & Nov - Dec",
+    "optimal_rainfall": 600.0,
+    "rainfall_tolerance": 150.0,
+    "dry_spell_tolerance": 10,
+    "heavy_rain_tolerance": 45.0
+  },
+  {
+    "id": 4,
+    "name": "Cotton",
+    "tamil_name": "பருத்தி (Cotton)",
+    "sowing_month": "August - October",
+    "optimal_rainfall": 750.0,
+    "rainfall_tolerance": 200.0,
+    "dry_spell_tolerance": 8,
+    "heavy_rain_tolerance": 40.0
+  },
+  {
+    "id": 5,
+    "name": "Sugarcane",
+    "tamil_name": "கரும்பு (Sugarcane)",
+    "sowing_month": "December - May",
+    "optimal_rainfall": 1500.0,
+    "rainfall_tolerance": 400.0,
+    "dry_spell_tolerance": 12,
+    "heavy_rain_tolerance": 110.0
+  },
+  {
+    "id": 6,
+    "name": "Black Gram (Pulses)",
+    "tamil_name": "உளுந்து (Black Gram)",
+    "sowing_month": "September - November",
+    "optimal_rainfall": 400.0,
+    "rainfall_tolerance": 100.0,
+    "dry_spell_tolerance": 9,
+    "heavy_rain_tolerance": 35.0
+  },
+  {
+    "id": 7,
+    "name": "Maize",
+    "tamil_name": "மக்காச்சோளம் (Maize)",
+    "sowing_month": "July - September",
+    "optimal_rainfall": 650.0,
+    "rainfall_tolerance": 180.0,
+    "dry_spell_tolerance": 7,
+    "heavy_rain_tolerance": 60.0
+  }
+]

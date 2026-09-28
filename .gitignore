@@ -1,0 +1,29 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Python bytecode and caches
+__pycache__/
+backend/app/**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# Large SQLite database (can be re-seeded in seconds using python seed_data.py)
+backend/monsoon.db
+backend/monsoon.db-journal
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
